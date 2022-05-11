@@ -4,7 +4,7 @@ Implement the Complex numbers class that contains following functions -
 You need to create the appropriate constructor.
 2. plus -
 This function adds two given complex numbers and updates the first complex number.
-e.g.
+e.g
 if C1 = 4 + i5 and C2 = 3 +i1
 C1.plus(C2) results in: 
 C1 = 7 + i6 and C2 = 3 + i1
